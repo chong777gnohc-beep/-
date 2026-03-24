@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240">
+  <!-- 身体 -->
+  <ellipse cx="100" cy="160" rx="65" ry="75" fill="#B8D4E3"/>
+  <!-- 肚子 -->
+  <ellipse cx="100" cy="175" rx="45" ry="50" fill="#D4EAF5"/>
+  <!-- 头 -->
+  <ellipse cx="100" cy="95" rx="60" ry="58" fill="#B8D4E3"/>
+  <!-- 左耳（耷拉） -->
+  <ellipse cx="48" cy="60" rx="20" ry="25" fill="#B8D4E3" transform="rotate(-30 48 60)"/>
+  <ellipse cx="48" cy="60" rx="11" ry="14" fill="#8FBCD9" transform="rotate(-30 48 60)"/>
+  <!-- 右耳 -->
+  <ellipse cx="152" cy="60" rx="20" ry="25" fill="#B8D4E3" transform="rotate(30 152 60)"/>
+  <ellipse cx="152" cy="60" rx="11" ry="14" fill="#8FBCD9" transform="rotate(30 152 60)"/>
+  <!-- 左眼白 -->
+  <ellipse cx="78" cy="92" rx="18" ry="20" fill="white"/>
+  <!-- 右眼白 -->
+  <ellipse cx="122" cy="92" rx="18" ry="20" fill="white"/>
+  <!-- 左眼珠 -->
+  <ellipse cx="78" cy="95" rx="11" ry="13" fill="#2D3436"/>
+  <!-- 右眼珠 -->
+  <ellipse cx="122" cy="95" rx="11" ry="13" fill="#2D3436"/>
+  <!-- 左眼高光 -->
+  <circle cx="81" cy="91" r="4" fill="white"/>
+  <!-- 右眼高光 -->
+  <circle cx="125" cy="91" r="4" fill="white"/>
+  <!-- 眉毛（委屈下垂） -->
+  <path d="M64 72 Q78 80 88 76" stroke="#2D3436" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M112 76 Q122 80 136 72" stroke="#2D3436" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- 鼻子 -->
+  <ellipse cx="100" cy="108" rx="7" ry="5" fill="#8FBCD9"/>
+  <!-- 嘴巴（瘪嘴） -->
+  <path d="M85 125 Q100 115 115 125" stroke="#2D3436" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- 眼泪 -->
+  <ellipse cx="88" cy="108" rx="4" ry="6" fill="#AED6F1" opacity="0.8"/>
+  <ellipse cx="112" cy="112" rx="3" ry="5" fill="#AED6F1" opacity="0.8"/>
+  <!-- 腮红 -->
+  <ellipse cx="58" cy="108" rx="14" ry="9" fill="#FFB3BA" opacity="0.5"/>
+  <ellipse cx="142" cy="108" rx="14" ry="9" fill="#FFB3BA" opacity="0.5"/>
+  <!-- 手臂下垂 -->
+  <ellipse cx="38" cy="185" rx="18" ry="14" fill="#B8D4E3" transform="rotate(-10 38 185)"/>
+  <ellipse cx="162" cy="185" rx="18" ry="14" fill="#B8D4E3" transform="rotate(10 162 185)"/>
+  <!-- 脚 -->
+  <ellipse cx="72" cy="232" rx="25" ry="12" fill="#B8D4E3"/>
+  <ellipse cx="128" cy="232" rx="25" ry="12" fill="#B8D4E3"/>
+</svg>
